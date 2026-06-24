@@ -131,11 +131,17 @@ const ijlal = {
 
 <br/>
 
-<!-- ====== TROPHIES ====== -->
-## 🏆 Trophies
+<!-- ====== PROFILE SUMMARY CARDS ====== -->
+## 🏆 Profile Summary
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ijlal-nasir&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ijlal-nasir&theme=tokyonight" alt="repos per language" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ijlal-nasir&theme=tokyonight" alt="most commit language" height="200" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ijlal-nasir&theme=tokyonight&utcOffset=5" alt="productive time" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ijlal-nasir&theme=tokyonight" alt="stats" height="200" />
 </div>
 
 <br/>
